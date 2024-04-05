@@ -1,4 +1,4 @@
-module github.com/r-usenko/go-migrator/drivers/processor
+module github.com/r-usenko/go-migrator-drivers/processor
 
 go 1.22
 

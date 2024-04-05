@@ -1,4 +1,4 @@
-module github.com/r-usenko/go-migrator/drivers/postgres
+module github.com/r-usenko/go-migrator-drivers/postgres
 
 go 1.22
 
