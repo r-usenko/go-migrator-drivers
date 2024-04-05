@@ -6,10 +6,10 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/r-usenko/go-migrator v0.0.0-20240405012757-9819ddec7625 h1:26YvVrCL4QnvP37xmKkn1cXBgejRfw63sEgmRVBBL+o=
 github.com/r-usenko/go-migrator v0.0.0-20240405012757-9819ddec7625/go.mod h1:ccCOIaDOJRPjO6R90I5oFMyRAyuCOWPyp11/RmVmzp4=
-github.com/r-usenko/go-migrator/drivers/postgres v0.0.0-20240405012341-24a7631577dd h1:VVxAjW+Dcy4+xDUzzUtMF/cZ9JnLOf4cO9x3nNSH/0w=
-github.com/r-usenko/go-migrator/drivers/postgres v0.0.0-20240405012341-24a7631577dd/go.mod h1:AS5o29orFDnRrpT5QzLAUzwFOTErfr6HpvyFhCckEd0=
-github.com/r-usenko/go-migrator/drivers/processor v0.0.0-20240405004535-5911085a1b84 h1:dRl5+BPxuafddxG9pZ1beBLoy9CixJctrvnXjpwjs2E=
-github.com/r-usenko/go-migrator/drivers/processor v0.0.0-20240405004535-5911085a1b84/go.mod h1:WY9sJwAYwdZmBN961FHJQTs/tN1q+bM8OcwlvwFCrJ0=
+github.com/r-usenko/go-migrator-drivers/postgres v0.0.0-20240405014211-2daab80e5443 h1:T2XW4v9ETP3rNZnoeCp2mRdem35zZcpJOjlVUgU4sjs=
+github.com/r-usenko/go-migrator-drivers/postgres v0.0.0-20240405014211-2daab80e5443/go.mod h1:1mWkkX9axdBn0LaCRkokHKMiyCqXRXG/tkKjrvyWkMM=
+github.com/r-usenko/go-migrator-drivers/processor v0.0.0-20240405014211-2daab80e5443 h1:bQDQk5QKaEe0XAJPz9vhoQSKMvfd9lnYTN4KnO6qoUM=
+github.com/r-usenko/go-migrator-drivers/processor v0.0.0-20240405014211-2daab80e5443/go.mod h1:UoER4LeDCNJ8mJ8Xo8Q2UyvuI71Q6dIlLIFPeGW7xDg=
 github.com/stretchr/testify v1.9.0 h1:HtqpIVDClZ4nwg75+f6Lvsy/wHu+3BoSGCbBAcpTsTg=
 github.com/stretchr/testify v1.9.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=

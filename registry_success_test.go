@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	migration "github.com/r-usenko/go-migrator"
-	"github.com/r-usenko/go-migrator/drivers/postgres"
-	"github.com/r-usenko/go-migrator/drivers/processor"
+	"github.com/r-usenko/go-migrator-drivers/postgres"
+	"github.com/r-usenko/go-migrator-drivers/processor"
 	"github.com/stretchr/testify/assert"
 )
 
